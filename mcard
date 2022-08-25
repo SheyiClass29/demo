@@ -1,0 +1,6 @@
+echo who are u?
+read $you
+echo enter your pin
+read $pin
+echo login successful
+ 
